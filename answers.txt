@@ -1,0 +1,1 @@
+The purpose of the person_pet table is to connect people and pets in the database. It acts as a linking table that establishes the relationship between the person table and the pet table using person_id and pet_id. This allows the database to associate people with their pets and supports a many-to-many relationship.
